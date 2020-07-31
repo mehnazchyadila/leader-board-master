@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #562EFF !important;
+    height: 94px;
+    padding: 0 150px;
+    color: #fff;
+}
+.brand-name{
+    height: 50px;
+    width: 50px;
+}
+.nav a{
+    color: #fff !important;
+    margin-right: 20px;
+}
+.nav img{
+    height: 51px;
+    width: 51px;
+}
